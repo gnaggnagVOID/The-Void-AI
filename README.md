@@ -28,7 +28,7 @@ You can choose from these Claude versions:
 
 ## Try it out!  
 
-Want to try it right away? Visit: [The Void AI Chat Interface](https://gnaggnagvoid.github.io/Claude-AI/)
+Want to try it right away? Visit: [The Void AI Chat Interface](https://gnaggnagvoid.github.io/The-Void-AI/)
 
 ## Quick Tips
 
